@@ -8,6 +8,9 @@ USAGE:
 ./menu.pl
 
 ## You may need to install two cpan modules: 'Switch' and 'Socket' -- it will error out if it can't find it.
+## If you are on a Debian, simply type 'cpan' as root on the command line and issue the following command
+## without the quotes 'install Switch'.
+
 ## https://metacpan.org/pod/Switch
 ## https://metacpan.org/pod/Socket
 
