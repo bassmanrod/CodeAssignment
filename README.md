@@ -2,7 +2,7 @@
 ## This a a menu driven Perl script that will parse the access_log provided by the interviewer.
 
 ## Please place this menu.pl file (sorry, I should be descriptive in the name) in a directory.
-## Please place the 'access_log' in the same directory'
+## Please place the 'access_log' in the same directory
 
 USAGE:
 ./menu.pl
