@@ -12,8 +12,6 @@ You may need to install two cpan modules: 'Switch' and 'Socket' -- it will error
 If you are on a Debian, simply type 'cpan' as root on the command line and issue the following command
 without the quotes 'install Switch'.
 
- https://metacpan.org/pod/Switch
- https://metacpan.org/pod/Socket
 
 This has been tested on a MAC OSX only
 
